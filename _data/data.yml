@@ -148,7 +148,7 @@ skills:
         tagline: Jira + Xray, TestLink, Testrail, Figma.
         level: 98%
 
-      - name: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools
+      - name: Postman, Fiddler, Charles, Wireshark, SoapUI, Chrome DevTools, LoadNinja and different performance tools
         tagline: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools.
         level: 98%
 
