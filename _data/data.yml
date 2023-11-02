@@ -99,22 +99,22 @@ experiences:
         time: 2013 - Present
         company: Waverley Software Ukraine
         details: |
-              As a part of QA team I performed firmware/software testing of enterprise and personal
-            storage systems (Functional, non-functional tests, firmware, embedded testing).
-            Testing Windows and Mac OS applications, WEB-APIs, Android and IOS aps,
-            Web testing. Created test plans, traceability matrix, tests, sets of tests, executions, 
-            bug reports and other related documents in Jira. Responsible for reporting
-            and sceduling. Worked closely with Development team, QA and management team.
-            Responsible for training new engineers and trainees.
-            Experience in test automation of web based applications using Selenium+ Java, SiculiX.
+                As a part of QA team I performed firmware/software testing of enterprise and personal
+                storage systems (Functional, non-functional tests, firmware, embedded testing).
+                Testing Windows and Mac OS applications, WEB-APIs, Android and IOS aps,
+                Web testing. Created test plans, traceability matrix, tests, sets of tests, executions, 
+                bug reports and other related documents in Jira. Responsible for reporting
+                and sceduling. Worked closely with Development team, QA and management team.
+                Responsible for training new engineers and trainees.
+                Experience in test automation of web based applications using Selenium+ Java, SiculiX.
             
             
       - role: Senior Support engineer
         time: 2012 - 2013
         company: Velton telecom
         details: |
-            Technical support for provider clients. Setting up 
-          client network equipment, troubleshooting.
+                Technical support for provider clients. Setting up 
+                client network equipment, troubleshooting.
 
 projects:
 
