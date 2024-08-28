@@ -65,7 +65,9 @@ career-profile:
            - 2+ years experience with mentoring/leading
            - Experience in testing process setup
            - Experience in hardware testing (NAS, and different storage systems), Embedded testing
-           - Experience in Web, Mobile (iOS and Android), Mac/Windows desktop applications testing
+           - Experience in Web, Mobile (iOS and Android) 
+           - Mac/Windows applications testing
+           - UI/UX testing
            - Experience in test design, test runs, and test results analysis
            - Management of the team
            - Good communication and coordination skills.
@@ -160,13 +162,13 @@ skills:
         level: 100%
 
       - name: Agile, Scrum, Waterfall
-        level: 95%
+        level: 100%
 
       - name: OS Windows, Mac, Linux
         level: 100%
 
       - name: Java
-        level: 30%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
